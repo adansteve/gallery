@@ -12,3 +12,8 @@
     font-weight: 600;
     padding: 8px;
 }
+
+.images{
+    width: 100%;
+    object-fit: cover;
+}
