@@ -1,0 +1,14 @@
+.card img{
+    height: 300px;
+    object-fit: cover;
+}
+
+.upload-btn{
+    width: 60px;
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 8px;
+}
